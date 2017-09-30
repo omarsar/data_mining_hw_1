@@ -1,5 +1,5 @@
 ### Data Mining (2017 Fall) - Assignment 1
-This repository contains all the information for the first assignment of the Data Mining 2017 Fall course. All instructions are posted below. Questions? Please email TA at (ellfae@gmail.com).
+This repository contains all the information for the first assignment of the Data Mining 2017 Fall course. All instructions are posted below. Questions? Please email TA at (ellfae@gmail.com or eunicebes@gmail.com), or ask us directly on Slack. 
 
 **Important Notice:** This is an **individual assignment**, therefore, each student is asked to complete the assignment on their own, following the **Course Academic Integrity Policy** presented in the first session. (Please refer to the orientation handout in the iLMS to learn more about the policy).
 
@@ -20,6 +20,6 @@ Please carefully review the following instructions to complete Assignment 1. The
 ### Grading
 The following is the grading format for your first assignment.
 - 80% - Complete all the tasks given in the provided Jupyter notebook `hw_1.ipynb`.
-- 10% - Complete the **bonus exercises** provided in the [first lab session](https://goo.gl/Sg4FS1). Please note that we have updated the notebook so you should be find five (6) exercises in the updated version.
+- 10% - Complete the **bonus exercises** provided in the [first lab session](https://goo.gl/Sg4FS1). Please note that we have updated the notebook so you should be able to find five (6) exercises in the updated version.
 - 10% - Creativity and Presentation: For instance, you can present different visualizations and data operations provided in the **Data** handout (Session 1 of Data Mining). (Refer to the iLMS for the handout on **Data**). You can also tidy up your notebook and provided nice explanations or comments where necessary, especially for the new part you have added. Surprise us!
 
